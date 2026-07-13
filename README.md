@@ -22,36 +22,6 @@ Currently, I'm focused on becoming a strong **Full Stack Developer** while prepa
 - 🚀 Building real-world software projects
 
 ---
-
-## 🚀 Current Project
-
-### 🏥 ClinicOS
-
-A clinic management platform built for personal clinics.
-
-Features include:
-
-- Patient Management
-- Appointment Scheduling
-- Doctor Dashboard
-- Prescription Management
-- Medical Records
-- Role-Based Access
-- Clinic Management
-- Analytics
-- Notifications
-- Secure Authentication
-
-Tech Stack:
-
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-- Tailwind CSS
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
