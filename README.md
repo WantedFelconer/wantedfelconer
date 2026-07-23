@@ -140,14 +140,21 @@ I'm currently working on mastering:
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
+
 <div align="center">
 
 I'm open to freelance work and collaborations — reach out if something here overlaps with what you're building.
 
-Show Image Show Image Show Image
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wantedfelconer)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wantedfelconer)
 
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" /> </div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" />
+
+</div>
 
 ---
 
