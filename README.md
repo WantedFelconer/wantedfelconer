@@ -140,9 +140,14 @@ I'm currently working on mastering:
 
 ---
 
-## 📫 Connect
+🤝 Let's Connect
+<div align="center">
 
-GitHub: https://github.com/WantedFelconer
+I'm open to freelance work and collaborations — reach out if something here overlaps with what you're building.
+
+Show Image Show Image Show Image
+
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" /> </div>
 
 ---
 
